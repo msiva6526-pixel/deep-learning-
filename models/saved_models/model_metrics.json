@@ -1,0 +1,19 @@
+{
+  "model_name": "VGG16 Transfer Learning",
+  "trained_date": "2026-10-29 00:50:18",
+  "classes": [
+    "Fire",
+    "Normal"
+  ],
+  "num_classes": 2,
+  "epochs_completed": 4,
+  "train_accuracy": 84.0,
+  "val_accuracy": 95.48,
+  "val_loss": 0.1625,
+  "input_dimensions": [
+    224,
+    224,
+    3
+  ],
+  "status": "TRAINED_ON_DATASET"
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "id": "DET-20261029-BFCAA3",
+    "timestamp": "2026-10-29 01:14:18",
+    "predicted_class": "Normal",
+    "confidence": 0.7918,
+    "filename": "optical_sensor_capture.jpg",
+    "camera_id": "Local Optical Sensor",
+    "alert_status": "NORMAL",
+    "notes": "Latency: 433.86ms",
+    "details": {
+      "success": true,
+      "predicted_class": "Normal",
+      "confidence": 0.7918,
+      "confidence_percentage": 79.18,
+      "all_probabilities": {
+        "Fire": 0.2082,
+        "Normal": 0.7918
+      },
+      "latency_ms": 433.86,
+      "is_above_threshold": true,
+      "supported_classes": [
+        "Fire",
+        "Normal"
+      ]
+    }
+  },
+  {
+    "id": "DET-20261029-61FCDC",
+    "timestamp": "2026-10-29 01:14:00",
+    "predicted_class": "Fire",
+    "confidence": 0.7748,
+    "filename": "optical_sensor_capture.jpg",
+    "camera_id": "Local Optical Sensor",
+    "alert_status": "EMERGENCY",
+    "notes": "Latency: 758.93ms",
+    "details": {
+      "success": true,
+      "predicted_class": "Fire",
+      "confidence": 0.7748,
+      "confidence_percentage": 77.48,
+      "all_probabilities": {
+        "Fire": 0.7748,
+        "Normal": 0.2252
+      },
+      "latency_ms": 758.93,
+      "is_above_threshold": true,
+      "supported_classes": [
+        "Fire",
+        "Normal"
+      ]
+    }
+  },
+  {
+    "id": "DET-20261029-F71A47",
+    "timestamp": "2026-10-29 00:53:56",
+    "predicted_class": "Normal",
+    "confidence": 0.8446,
+    "filename": "cctv_normal_room.jpg",
+    "camera_id": "Verification Test Suite",
+    "alert_status": "NORMAL",
+    "notes": "Automated Pipeline Test",
+    "details": {}
+  },
+  {
+    "id": "DET-20261029-C3CB3D",
+    "timestamp": "2026-10-29 00:53:56",
+    "predicted_class": "Normal",
+    "confidence": 0.9585,
+    "filename": "cctv_smoke_scene.jpg",
+    "camera_id": "Verification Test Suite",
+    "alert_status": "NORMAL",
+    "notes": "Automated Pipeline Test",
+    "details": {}
+  },
+  {
+    "id": "DET-20261029-693CD8",
+    "timestamp": "2026-10-29 00:53:56",
+    "predicted_class": "Fire",
+    "confidence": 0.5293,
+    "filename": "cctv_fire_scene.jpg",
+    "camera_id": "Verification Test Suite",
+    "alert_status": "EMERGENCY",
+    "notes": "Automated Pipeline Test",
+    "details": {}
+  },
+  {
+    "id": "DET-20261029-DA4A77",
+    "timestamp": "2026-10-29 00:43:32",
+    "predicted_class": "Fire",
+    "confidence": 0.9907,
+    "filename": "cctv_normal_room.jpg",
+    "camera_id": "Verification Test Suite",
+    "alert_status": "EMERGENCY",
+    "notes": "Automated Pipeline Test",
+    "details": {}
+  },
+  {
+    "id": "DET-20261029-99DDC4",
+    "timestamp": "2026-10-29 00:43:32",
+    "predicted_class": "Fire",
+    "confidence": 0.9838,
+    "filename": "cctv_smoke_scene.jpg",
+    "camera_id": "Verification Test Suite",
+    "alert_status": "EMERGENCY",
+    "notes": "Automated Pipeline Test",
+    "details": {}
+  },
+  {
+    "id": "DET-20261029-7575C0",
+    "timestamp": "2026-10-29 00:43:31",
+    "predicted_class": "Fire",
+    "confidence": 0.9997,
+    "filename": "cctv_fire_scene.jpg",
+    "camera_id": "Verification Test Suite",
+    "alert_status": "EMERGENCY",
+    "notes": "Automated Pipeline Test",
+    "details": {}
+  },
+  {
+    "id": "DET-20261029-432AE6",
+    "timestamp": "2026-10-29 00:24:29",
+    "predicted_class": "Normal",
+    "confidence": 0.6156,
+    "filename": "cctv_normal_room.jpg",
+    "camera_id": "Verification Test Suite",
+    "alert_status": "NORMAL",
+    "notes": "Automated Pipeline Test",
+    "details": {}
+  },
+  {
+    "id": "DET-20261029-4C2074",
+    "timestamp": "2026-10-29 00:24:29",
+    "predicted_class": "Normal",
+    "confidence": 0.972,
+    "filename": "cctv_smoke_scene.jpg",
+    "camera_id": "Verification Test Suite",
+    "alert_status": "NORMAL",
+    "notes": "Automated Pipeline Test",
+    "details": {}
+  },
+  {
+    "id": "DET-20261029-C3093A",
+    "timestamp": "2026-10-29 00:24:29",
+    "predicted_class": "Normal",
+    "confidence": 0.8181,
+    "filename": "cctv_fire_scene.jpg",
+    "camera_id": "Verification Test Suite",
+    "alert_status": "NORMAL",
+    "notes": "Automated Pipeline Test",
+    "details": {}
+  }
+]
